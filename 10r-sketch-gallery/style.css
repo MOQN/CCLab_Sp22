@@ -7,6 +7,10 @@ canvas {
   display: block;
 }
 
+.title {
+  font-size: 40px;
+}
+
 #my-container {
   /* background-color: beige; */
   width: 800px;
