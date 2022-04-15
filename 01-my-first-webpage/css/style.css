@@ -1,0 +1,8 @@
+h1 {
+  color: rgba(255, 0, 0, 0.5);
+  font-family: 'Arial', sans-serif;
+}
+span {
+  color:magenta;
+  font-weight: bold;
+}

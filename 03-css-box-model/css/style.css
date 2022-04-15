@@ -1,0 +1,32 @@
+body {
+  /* background-color: gray; */
+  margin: 0;
+}
+
+p {
+  margin: 0;
+}
+
+.box {
+  background-color: bisque;
+  width: 200px;
+  height: 150px;
+  margin: 30px;
+  padding: 20px;
+}
+
+.title {
+  font-weight: bold;
+}
+
+.description {
+  color: gray;
+}
+
+#special-box {
+  background-color: yellowgreen;
+  
+  position: absolute;
+  right: 20px;
+  bottom: 50px;
+}
