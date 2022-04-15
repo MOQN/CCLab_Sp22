@@ -1,7 +1,7 @@
 function setup() {
   let cvs = createCanvas(800, 500);
   cvs.parent("my-container");
-  background(220);
+  background(0);
 }
 
 function draw() {
